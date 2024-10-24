@@ -1,0 +1,63 @@
+
+
+token.pickle
+credentials.json
+# Fichiers de sauvegarde et temporaires
+*.tmp
+*.bak
+*.swp
+*.swo
+*~
+
+# Fichiers de log
+*.log
+
+# Fichiers de configuration locaux
+*.env
+*.local
+
+# Dossiers de build
+build/
+dist/
+out/
+
+# Fichiers de dépendances
+node_modules/
+vendor/
+
+# Fichiers de système d'exploitation
+.DS_Store
+Thumbs.db
+
+# Fichiers de l'IDE
+.vscode/
+.idea/
+*.iml
+
+# Fichiers Python
+__pycache__/
+*.py[cod]
+*.pyo
+
+# Fichiers Java
+*.class
+
+# Fichiers de paquets
+*.jar
+*.war
+*.ear
+
+# Fichiers de compilation C/C++
+*.o
+*.so
+*.a
+*.dylib
+
+# Fichiers de paquets compressés
+*.zip
+*.tar.gz
+*.rar
+*.7z
+
+# Fichiers d'env python
+myenv/
